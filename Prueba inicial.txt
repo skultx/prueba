@@ -1,1 +1,4 @@
 Texto inicial
+
+Pues amai la ququi 
+Pues ahora esto es una variante que permitira crear una rama y trabajar sobre ella
